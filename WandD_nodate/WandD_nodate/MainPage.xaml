@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xf:BottomBarPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:WandD_nodate"
+             x:Class="WandD_nodate.MainPage"
+             xmlns:xf="clr-namespace:BottomBar.XamarinForms;assembly=BottomBar.XamarinForms"
+             xmlns:views="clr-namespace:WandD_nodate.Views" 
+                  BarTextColor="#0D47A1">
+
+    <NavigationPage Title="Сегодня" Icon="today.png" BarBackgroundColor="#1565C0" >
+        <x:Arguments>
+            <views:TodayPage />
+        </x:Arguments>
+    </NavigationPage>
+
+    <NavigationPage Title="Все" Icon="all.png" BarBackgroundColor="#1565C0" >
+        <x:Arguments>
+            <views:allNotesPage />
+        </x:Arguments>
+    </NavigationPage>
+</xf:BottomBarPage>

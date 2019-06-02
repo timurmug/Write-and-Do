@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launcher_background">#FFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="splash_background">#FFFFFF</color>
+  <!--<color name="RedMarker">#ff897d</color>-->
+
+  <!--<item name="row_a" type="color">#FFCCFFCC</item>
+  <item name="row_b" type="color">#FFFFFFCC</item>
+  <item name="all_text" type="color">#FF000000</item>
+  <item name="row_red" type="color">#FFFF4444</item>
+  <item name="row_orange" type="color">#FFE69900</item>
+  <item name="row_green" type="color">#FF739900</item>
+  <item name="wheat" type="color">#FFF5DEB3</item>
+
+  <integer-array name="androidcolors">
+    <item>@color/row_a</item>
+    <item>@color/row_b</item>
+    <item>@color/all_text</item>
+    <item>@color/row_red</item>
+    <item>@color/row_orange</item>
+    <item>@color/row_green</item>
+    <item>@color/wheat</item>
+  </integer-array>-->
+</resources>
